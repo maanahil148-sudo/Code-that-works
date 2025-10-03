@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Task4 {
+public class LeapYear {
     public static void main(String[] args) {
         int year;
           Scanner scanner = new Scanner(System.in);
